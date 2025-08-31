@@ -1,0 +1,6 @@
+streamlit>=1.29.0
+google-cloud-documentai>=3.5.0
+dateparser>=1.2.0
+pandas>=2.1.0
+numpy>=1.26.0
+Babel>=2.15.0

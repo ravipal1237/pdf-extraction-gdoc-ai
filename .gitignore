@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env/
+env.bak/
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Service account keys & secrets
+*.json
+*.pem
+*.key
+*.crt
+*.der
+*.p12
+*.env
+
+# IDE & editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
